@@ -49,3 +49,51 @@ Indicates where text, images, videos, or other media will be located.
 ### ⚙️ Functionality
 Outlines the interactive features and user actions supported by the interface.  
 *Example:* A login form with input fields and a submit button ensures users can access personalized features of the application.
+
+## Types of Wireframes
+
+Wireframes can vary in detail and purpose depending on the stage of the design process. The two most common types are:
+
+### Low-Fidelity Wireframes
+
+Low-fidelity wireframes are simple, rough representations of a layout. They focus on structure, placement of elements, and overall flow without getting into design details like color, typography, or images.
+
+**Typical uses:**
+- Early in the design process to brainstorm ideas and concepts
+- Quickly sketching out basic layouts and interactions
+- Getting rapid feedback from stakeholders
+
+**Example:** Hand-drawn sketches or basic digital outlines with placeholder boxes for images and text.
+
+---
+
+### High-Fidelity Wireframes
+
+High-fidelity wireframes are more detailed and closer to the final design. They may include specific spacing, grid systems, detailed UI elements, and even hints of branding like font choices or grayscale versions of final components.
+
+**Typical uses:**
+- Later in the design process when finalizing structure and interactions
+- Preparing for handoff to development teams
+- Usability testing with realistic interactions
+
+**Example:** Digitally designed wireframes with detailed UI components created in tools like Figma, Adobe XD, or Sketch.
+
+---
+
+## Example Analysis: Figma Project Airbnb Wireframe
+
+👉 **Link:** [Project Airbnb Figma Design](https://www.figma.com/design/E2BRqdPcKkrnX6hLGPto8Z/Project-Airbnb?node-id=1-2&p=f&t=jOfpniG5HJTkcwuH-0)
+
+Based on the design elements visible in this Figma file, this wireframe represents a **high-fidelity wireframe**.
+
+**Reasons:**
+- It includes specific layout details and component placements.
+- There is clear attention to spacing, alignment, and user flow.
+- Interactive elements like buttons, forms, and navigation components are well defined.
+- The design closely resembles what the final product will look like, without full visual styling or final branding.
+
+**When this is typically used:**  
+- Just before or during handoff to developers.
+- During advanced usability testing.
+- To refine and finalize design decisions.
+
