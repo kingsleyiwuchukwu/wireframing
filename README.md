@@ -102,11 +102,12 @@ Based on the design elements visible in this Figma file, this wireframe represen
 There are many tools available to create wireframes, each offering unique features to suit different design workflows. Some popular wireframing tools include:
 
 - **Figma**
-- Adobe XD
-- Sketch
-- Balsamiq
-- Axure RP
-- InVision
+* **Balsamiq:** Known for its low-fidelity, hand-drawn aesthetic, making it excellent for quick ideation and early-stage brainstorming.
+* **Sketch:** A powerful design toolkit for macOS that also supports wireframing, often favored for its extensive plugin ecosystem.
+* **Adobe XD:** Part of the Adobe Creative Cloud, offering a comprehensive suite for UI/UX design, including wireframing, prototyping, and collaboration.
+* **Miro:** A versatile online whiteboard platform that can be adapted for wireframing, particularly useful for collaborative brainstorming and user flow mapping.
+* **Whimsical:** Offers a clean, intuitive interface for creating wireframes, flowcharts, and sticky notes, promoting rapid ideation.
+
 
 ### 🌟 Figma — Recommended Tool
 
@@ -150,3 +151,44 @@ Wireframing plays a critical role in software development by bridging the gap be
 - **Encourages collaboration:**  
   Wireframes make it easier for cross-functional teams to spot issues, suggest improvements, and agree on solutions before high-cost development starts.
 
+## Real-World Scenario: How Wireframing Prevented Usability Issues
+
+During the design of a property booking platform (Airbnb clone), wireframing played a crucial role in identifying and resolving usability challenges before development began.
+
+### The Challenge
+
+In the initial low-fidelity wireframes, the booking process spanned multiple steps spread across different pages — property selection, date picking, guest details, and payment. When shared with stakeholders and tested in user walkthroughs, it became clear that:
+
+- The process felt too long and fragmented for users.
+- Users were unsure where they were in the booking journey, causing confusion and frustration.
+- Navigation between steps wasn’t clear, raising concerns about potential drop-offs before checkout completion.
+
+### The Solution
+
+The design team iterated on the wireframes and introduced:
+
+- A **single-page streamlined checkout** with progress indicators.
+- A clear summary of booking details visible at every step.
+- Navigation buttons (e.g., Back, Next) that made the flow intuitive.
+
+By testing these changes at the wireframing stage, the team resolved usability issues **before any code was written**, saving development time and avoiding costly revisions.
+
+### Impact on the Final Product
+
+The final product featured:
+
+- A smooth, user-friendly booking flow that improved conversion rates.
+- Positive feedback from users about the clarity and simplicity of the process.
+- A development phase that was faster and more focused because core usability issues were addressed early.
+
+---
+
+## Conclusion: The Role of Wireframing in User-Friendly Design
+
+Wireframing is a vital part of the software development lifecycle. It allows teams to:
+
+- Spot and solve usability issues before development begins.
+- Align stakeholders on design decisions.
+- Guide developers in building applications that are not only functional but intuitive and user-friendly.
+
+By prioritizing wireframing, teams can deliver products that meet user needs, reduce rework, and achieve higher customer satisfaction.
