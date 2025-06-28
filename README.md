@@ -29,3 +29,23 @@ Wireframing is a crucial step in the design process that serves as the blueprint
 
 - **Focuses on Functionality and User Experience:**  
   By stripping away visuals, wireframes allow teams to concentrate on usability and core interactions.
+
+## Key Elements of a Wireframe
+
+Wireframes break down the structure of a website or application into essential elements that define both form and function. Below are the key elements commonly found in a wireframe and how they contribute to the overall design:
+
+### 🗂️ Layout Structure
+Defines how elements are arranged on the page, creating a visual hierarchy.  
+*Example:* A two-column layout with navigation on the left and main content on the right helps users focus on primary tasks while maintaining easy access to links.
+
+### 🔗 Navigation
+Shows how users move through the site or app. This includes menus, links, and buttons.  
+*Example:* A top navigation bar with dropdowns makes it easy for users to access different sections of a site without feeling lost.
+
+### 📄 Content Placement
+Indicates where text, images, videos, or other media will be located.  
+*Example:* Placing headlines at the top with supporting images below ensures users quickly understand the purpose of a page.
+
+### ⚙️ Functionality
+Outlines the interactive features and user actions supported by the interface.  
+*Example:* A login form with input fields and a submit button ensures users can access personalized features of the application.
